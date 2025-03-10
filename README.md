@@ -11,3 +11,7 @@ O sorteador distribui aleatoriamente os nomes dos participantes, garantindo que 
 🚀 Funcionalidades
 ---------------------------------
 Entrada de participantes: Você pode inserir o nome de todos os participantes. Sorteio automático: O sistema irá gerar automaticamente a lista de amigos secretos. Prevenção de repetições: Cada participante sorteia uma pessoa diferente e não pode ser seu próprio amigo secreto.
+
+🔗Produção
+----------------
+https://amigo-secreto-one-rose.vercel.app/
